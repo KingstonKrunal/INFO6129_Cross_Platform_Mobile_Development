@@ -5,6 +5,12 @@
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab4/node_modules/@expo/devcert/src/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab4/node_modules/@expo/devcert/dist/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab4/node_modules/expo-modules-autolinking/src/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab4/node_modules/expo-modules-autolinking/build/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab4/k_shah154133-simple-notes-app/node_modules/expo-modules-autolinking/build/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab4/k_shah154133-simple-notes-app/node_modules/expo-modules-autolinking/src/platforms" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
